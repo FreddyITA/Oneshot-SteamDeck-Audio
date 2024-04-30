@@ -1,0 +1,10 @@
+{
+  "name": "Oneshot",
+  "description": "Oneshot sounds ripped and modified for the Steam Deck",
+  "author": "FreddyITA",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
