@@ -1,4 +1,4 @@
-# Oneshot - Audio
+# OneShot - Audio
 
 OneShot is a game developed in a modified version of RPG Maker 2003 by Eliza Velasquez and Nightmargin. You play the role of a god who must guide the protagonist, Niko, through a strange world inhabited by robots, with the ultimate goal of saving the world and returning Niko home.
 
@@ -6,4 +6,4 @@ OneShot is a game developed in a modified version of RPG Maker 2003 by Eliza Vel
 
 #
 
-Oneshot sounds from the original 2016 game, ripped and modified by me. Hope you enjoy ^v^
+OneShot sounds from the original 2016 game, ripped and modified by me. Hope you enjoy ^v^
